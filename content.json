@@ -1,7 +1,25 @@
 {
-  "profile": "KingVision is a media and technical creator focused on analog aesthetics, VHS storytelling, and experimental design. Minimal by design.",
-  "system": "Built with a retrofuturist workflow. Focused on motion, texture, and lo-fi storytelling.",
-  "access": "For inquiries: hello@kingvision.tv",
+  "navigation": [
+    "MEDIA",
+    "PROFILE",
+    "ACCESS"
+  ],
+
+  "hero": {
+    "title": "KingVision",
+    "subtitle": "Analog Aesthetics • VHS Storytelling • Experimental Design"
+  },
+
+  "profile": {
+    "title": "PROFILE",
+    "text": "KingVision is a media and technical creator focused on analog aesthetics, VHS storytelling, and experimental design. Minimal by design."
+  },
+
+  "access": {
+    "title": "ACCESS",
+    "text": "For inquiries: hello@kingvision.tv"
+  },
+
   "media": [
     {
       "title": "KVTV Station ID",
@@ -14,6 +32,26 @@
       "description": "CRT display animation",
       "thumbnail": "https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/CRT_monitor_displaying_logo_202608082219_mwdbgk.jpg",
       "link": "https://res.cloudinary.com/dq6ylkimk/video/upload/CRT_monitor_displaying_logo_202608082219_mwdbgk.mp4"
+    }
+  ],
+
+  "sections": [
+    {
+      "id": "MEDIA",
+      "title": "Media",
+      "type": "media"
+    },
+    {
+      "id": "PROFILE",
+      "title": "Profile",
+      "type": "text",
+      "source": "profile"
+    },
+    {
+      "id": "ACCESS",
+      "title": "Access",
+      "type": "text",
+      "source": "access"
     }
   ]
 }
