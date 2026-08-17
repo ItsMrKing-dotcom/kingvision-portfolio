@@ -1,1 +1,29 @@
+backend:
+  name: github
+  repo: your-username/your-repo-name
+  branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
 
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "content"
+    label: "Site Content"
+    files:
+      - file: "content.json"
+        name: "main"
+        label: "Main Content"
+        fields:
+          - { label: "Profile", name: "profile", widget: "text" }
+          - { label: "System", name: "system", widget: "text" }
+          - { label: "Access", name: "access", widget: "text" }
+          - label: "Media"
+            name: "media"
+            widget: "list"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Description", name: "description", widget: "string" }
+              - { label: "Thumbnail URL", name: "thumbnail", widget: "string" }
+              - { label: "Link URL", name: "link", widget: "string" }
