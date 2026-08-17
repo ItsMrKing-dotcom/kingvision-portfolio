@@ -1,57 +1,26 @@
 {
-  "navigation": [
-    "MEDIA",
-    "PROFILE",
-    "ACCESS"
-  ],
+  "navigation": ["KVTV", "PROFILE", "ACCESS", "SYSTEM"],
 
-  "hero": {
-    "title": "KingVision",
-    "subtitle": "Analog Aesthetics • VHS Storytelling • Experimental Design"
+  "kvtv": {
+    "channels": [
+      {
+        "id": 1,
+        "title": "City Watch",
+        "type": "youtube",
+        "url": "https://youtube.com/playlist?list=PLPOsHZcLpCos"
+      },
+      {
+        "id": 2,
+        "title": "Commercials",
+        "type": "youtube",
+        "url": "https://youtube.com/playlist?list=PLwvJo1FcJypF88z_YaMxckZ1d6zzoGGYP"
+      }
+    ]
   },
 
-  "profile": {
-    "title": "PROFILE",
-    "text": "KingVision is a media and technical creator focused on analog aesthetics, VHS storytelling, and experimental design. Minimal by design."
-  },
+  "profile": "KingVision is a media and technical creator focused on analog aesthetics, VHS storytelling, and experimental design. Minimal by design.",
 
-  "access": {
-    "title": "ACCESS",
-    "text": "For inquiries: hello@kingvision.tv"
-  },
+  "access": "For inquiries: hello@kingvision.tv",
 
-  "media": [
-    {
-      "title": "KVTV Station ID",
-      "description": "Animated station ID",
-      "thumbnail": "https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/KVTV_station_ID_animation_design_202608082219_ll7akz.jpg",
-      "link": "https://res.cloudinary.com/dq6ylkimk/video/upload/KVTV_station_ID_animation_design_202608082219_ll7akz.mp4"
-    },
-    {
-      "title": "CRT Monitor Display",
-      "description": "CRT display animation",
-      "thumbnail": "https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/CRT_monitor_displaying_logo_202608082219_mwdbgk.jpg",
-      "link": "https://res.cloudinary.com/dq6ylkimk/video/upload/CRT_monitor_displaying_logo_202608082219_mwdbgk.mp4"
-    }
-  ],
-
-  "sections": [
-    {
-      "id": "MEDIA",
-      "title": "Media",
-      "type": "media"
-    },
-    {
-      "id": "PROFILE",
-      "title": "Profile",
-      "type": "text",
-      "source": "profile"
-    },
-    {
-      "id": "ACCESS",
-      "title": "Access",
-      "type": "text",
-      "source": "access"
-    }
-  ]
+  "system": "Workflow: Retro‑futurist motion design, analog texture pipelines, CRT simulation, VHS degradation, lo‑fi broadcast compositing.\nEquipment: CapCut, Clipchamp, Luma, Flow, ComfyUI, RealVisXL, SDXL, custom CRT overlays, custom VHS noise layers."
 }
