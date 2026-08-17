@@ -1,13 +1,112 @@
-kingvision-portfolio/
-├── admin/
-│   ├── config.yml
-│   └── index.html
-├── assets/
-│   └── (optional local copies if you want, but using Cloudinary)
-├── content.json
-├── index.html
-├── main.js
-├── robots.txt
-├── sitemap.xml
-├── style.css
-└── README.md
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <!-- SEO -->
+  <title>KingVision | Portfolio</title>
+  <meta name="description" content="KingVision — A personal portfolio showcasing professional media and technical work with a retro VHS aesthetic." />
+  <meta name="theme-color" content="#000000" />
+  <link rel="canonical" href="https://your-domain.vercel.app/" />
+  
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="KingVision | Portfolio" />
+  <meta property="og:description" content="Retro VHS portfolio showcasing media and technical work." />
+  <meta property="og:image" content="https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Static_Banner_kmcxk4.png" />
+  <meta property="og:url" content="https://your-domain.vercel.app/" />
+  
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="KingVision | Portfolio" />
+  <meta name="twitter:description" content="Retro VHS portfolio showcasing media and technical work." />
+  <meta name="twitter:image" content="https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Static_Banner_kmcxk4.png" />
+  
+  <!-- Favicon (use your bug) -->
+  <link rel="icon" href="https://res.cloudinary.com/dq6ylkimk/image/upload/KVTV_Transparent_Logo_zep0na.png" type="image/png" />
+  
+  <!-- JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "KingVision",
+    "url": "https://your-domain.vercel.app/",
+    "image": "https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Retro_Vhs_jo1xem.png",
+    "jobTitle": "Media & Technical Creator",
+    "description": "Retro VHS portfolio showcasing professional media and technical skills."
+  }
+  </script>
+  
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <!-- VHS layers -->
+  <div class="vhs-scanlines"></div>
+  <div class="vhs-static" id="vhsStatic"></div>
+  <div class="vhs-tracking" id="vhsTracking"></div>
+  
+  <!-- Top nav -->
+  <header class="top-bar">
+    <a href="#system" class="nav-left" data-section="system">SYSTEM</a>
+    <a href="#profile" class="nav-center" data-section="profile">PROFILE</a>
+    <a href="#access" class="nav-right" data-section="access">ACCESS</a>
+  </header>
+  
+  <!-- KVTV bug -->
+  <img 
+    src="https://res.cloudinary.com/dq6ylkimk/image/upload/KVTV_Transparent_Logo_zep0na.png" 
+    alt="KVTV bug" 
+    class="kv-bug"
+  />
+  
+  <!-- Main content -->
+  <main id="app" class="app">
+    <!-- Hero -->
+    <section class="hero">
+      <img 
+        src="https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Retro_Vhs_jo1xem.png" 
+        alt="KingVision Retro Logo" 
+        class="main-logo"
+      />
+      <img 
+        src="https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Static_Banner_kmcxk4.png" 
+        alt="KingVision Static Banner" 
+        class="static-banner"
+      />
+    </section>
+    
+    <!-- Sections -->
+    <section id="profile" class="section" hidden>
+      <h2 class="section-title">PROFILE</h2>
+      <div id="profile-content" class="minimal-text"></div>
+    </section>
+    
+    <section id="system" class="section" hidden>
+      <h2 class="section-title">SYSTEM</h2>
+      <div id="system-content" class="minimal-text"></div>
+    </section>
+    
+    <section id="access" class="section" hidden>
+      <h2 class="section-title">ACCESS</h2>
+      <div id="access-content" class="minimal-text"></div>
+    </section>
+    
+    <!-- Media grid -->
+    <section class="media" id="media"></section>
+  </main>
+  
+  <!-- CRT/ID overlays (optional) -->
+  <div class="crt-overlay" id="crtOverlay" hidden>
+    <video 
+      autoplay 
+      muted 
+      playsinline 
+      src="https://res.cloudinary.com/dq6ylkimk/video/upload/KVTV_station_ID_animation_design_202608082219_ll7akz.mp4"
+    ></video>
+  </div>
+  
+  <script src="/main.js"></script>
+</body>
+</html>
