@@ -3,76 +3,95 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>KingVision | KVTV Broadcast</title>
+
+  <title>KingVision | Portfolio</title>
+  <meta name="description" content="KingVision — A personal portfolio showcasing professional media and technical work with a retro VHS aesthetic." />
+  <meta name="theme-color" content="#000000" />
+  <link rel="canonical" href="https://kingvision.vercel.app/" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="KingVision | Portfolio" />
+  <meta property="og:description" content="Retro VHS portfolio showcasing media and technical work." />
+  <meta property="og:image" content="https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Static_Banner_kmcxk4.png" />
+  <meta property="og:url" content="https://kingvision.vercel.app/" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="KingVision | Portfolio" />
+  <meta name="twitter:description" content="Retro VHS portfolio showcasing media and technical work." />
+  <meta name="twitter:image" content="https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Static_Banner_kmcxk4.png" />
+
+  <link rel="icon" href="https://res.cloudinary.com/dq6ylkimk/image/upload/KVTV_Transparent_Logo_zep0na.png" type="image/png" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "KingVision",
+    "url": "https://kingvision.vercel.app/",
+    "image": "https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Retro_Vhs_jo1xem.png",
+    "jobTitle": "Media & Technical Creator",
+    "description": "Retro VHS portfolio showcasing professional media and technical skills."
+  }
+  </script>
+
   <link rel="stylesheet" href="/style.css" />
 </head>
-
 <body>
-  <!-- VHS layers -->
   <div class="vhs-scanlines"></div>
   <div class="vhs-static" id="vhsStatic"></div>
   <div class="vhs-tracking" id="vhsTracking"></div>
 
-  <!-- Top nav -->
   <header class="top-bar">
-    <a href="#kvtv" class="nav-left" data-section="kvtv">KVTV</a>
+    <a href="#system" class="nav-left" data-section="system">SYSTEM</a>
     <a href="#profile" class="nav-center" data-section="profile">PROFILE</a>
     <a href="#access" class="nav-right" data-section="access">ACCESS</a>
-    <a href="#system" class="nav-right" data-section="system">SYSTEM</a>
   </header>
 
-  <!-- KVTV bug -->
-  <img 
-    src="https://res.cloudinary.com/dq6ylkimk/image/upload/KVTV_Transparent_Logo_zep0na.png" 
+  <img
+    src="https://res.cloudinary.com/dq6ylkimk/image/upload/KVTV_Transparent_Logo_zep0na.png"
+    alt="KVTV bug"
     class="kv-bug"
   />
 
-  <!-- Main content -->
   <main id="app" class="app">
-
-    <!-- Hero -->
     <section class="hero">
-      <img 
-        src="https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Retro_Vhs_jo1xem.png" 
+      <img
+        src="https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Retro_Vhs_jo1xem.png"
+        alt="KingVision Retro Logo"
         class="main-logo"
       />
-      <img 
-        src="https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Static_Banner_kmcxk4.png" 
+      <img
+        src="https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Static_Banner_kmcxk4.png"
+        alt="KingVision Static Banner"
         class="static-banner"
       />
     </section>
 
-    <!-- PROFILE -->
     <section id="profile" class="section" hidden>
       <h2 class="section-title">PROFILE</h2>
       <div id="profile-content" class="minimal-text"></div>
     </section>
 
-    <!-- ACCESS -->
-    <section id="access" class="section" hidden>
-      <h2 class="section-title">ACCESS</h2>
-      <div id="access-content" class="minimal-text"></div>
-    </section>
-
-    <!-- SYSTEM -->
     <section id="system" class="section" hidden>
       <h2 class="section-title">SYSTEM</h2>
       <div id="system-content" class="minimal-text"></div>
     </section>
 
+    <section id="access" class="section" hidden>
+      <h2 class="section-title">ACCESS</h2>
+      <div id="access-content" class="minimal-text"></div>
+    </section>
+
+    <section class="media" id="media"></section>
   </main>
 
-  <!-- CRT OVERLAY -->
   <div class="crt-overlay" id="crtOverlay" hidden>
-    <div id="crtMenu" class="minimal-text" style="text-align:center; white-space:pre-line;">
-      KVTV CHANNELS
-      1 — City Watch
-      2 — Commercials
-
-      (Press 1 or 2, or click)
-    </div>
-
-    <iframe id="crtFrame" style="display:none; width:100%; height:100%; border:none;"></iframe>
+    <video
+      autoplay
+      muted
+      playsinline
+      src="https://res.cloudinary.com/dq6ylkimk/video/upload/KVTV_station_ID_animation_design_202608082219_ll7akz.mp4"
+    ></video>
   </div>
 
   <script src="/main.js"></script>
