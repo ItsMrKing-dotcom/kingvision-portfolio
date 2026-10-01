@@ -71,8 +71,18 @@ function setupNav() {
   links.forEach(link => {
     link.addEventListener('click', event => {
       event.preventDefault();
+      const section = document.getElementById(link.dataset.section);
       showSection(link.dataset.section);
-      window.scrollTo({ top: 0, behavior: 'instant' });
+
+      if (section) {
+        const header = document.querySelector('.top-bar');
+        const headerOffset = (header?.offsetHeight || 0) + 16;
+        const sectionTop = section.getBoundingClientRect().top + window.scrollY;
+        window.scrollTo({
+          top: Math.max(0, sectionTop - headerOffset),
+          behavior: 'smooth'
+        });
+      }
     });
   });
 
