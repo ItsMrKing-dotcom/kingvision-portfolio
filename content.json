@@ -4,13 +4,21 @@
       "title": "KVTV Station ID",
       "description": "Animated station identification",
       "thumbnail": "https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/KVTV_station_ID_animation_design_202608082219_ll7akz.jpg",
-      "link": "https://res.cloudinary.com/dq6ylkimk/video/upload/KVTV_station_ID_animation_design_202608082219_ll7akz.mp4"
+      "link": "https://res.cloudinary.com/dq6ylkimk/video/upload/KVTV_station_ID_animation_design_202608082219_ll7akz.mp4",
+      "publicationStatus": "public",
+      "category": "STATION IDENT",
+      "duration": "00:04",
+      "resolution": "1280 \u00d7 720"
     },
     {
       "title": "CRT Monitor Display",
       "description": "CRT display animation",
       "thumbnail": "https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/CRT_monitor_displaying_logo_202608082219_mwdbgk.jpg",
-      "link": "https://res.cloudinary.com/dq6ylkimk/video/upload/CRT_monitor_displaying_logo_202608082219_mwdbgk.mp4"
+      "link": "https://res.cloudinary.com/dq6ylkimk/video/upload/CRT_monitor_displaying_logo_202608082219_mwdbgk.mp4",
+      "publicationStatus": "public",
+      "category": "CRT DISPLAY",
+      "duration": "00:04",
+      "resolution": "1280 \u00d7 720"
     }
   ]
 }

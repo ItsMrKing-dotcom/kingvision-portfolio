@@ -26,54 +26,49 @@
     "logo": "https://res.cloudinary.com/dq6ylkimk/image/upload/KVTV_Transparent_Logo_zep0na.png",
     "image": "https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Static_Banner_kmcxk4.png",
     "description": "An ongoing cultural broadcast preserving transmissions and visual records.",
-    "email": "hello@kingvision.tv"
+    "email": "KingVisionHq@gmail.com"
   }
   </script>
-  <link rel="stylesheet" href="/style.css" />
+  <link rel="stylesheet" href="/assets/kingvision-content-1.css" />
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to transmission</a>
   <div class="texture" aria-hidden="true"></div>
   <header class="masthead">
     <a class="identity" href="#signal" aria-label="KingVision — return to Signal">
-      <img src="https://res.cloudinary.com/dq6ylkimk/image/upload/KVTV_Transparent_Logo_zep0na.png" alt="" />
+      <img src="/assets/kingvision-tag.webp" alt="" width="512" height="512" />
       <span>KINGVISION</span>
     </a>
     <p class="status"><span aria-hidden="true"></span> TRANSMISSION AVAILABLE</p>
   </header>
   <nav class="primary-nav" aria-label="Primary navigation">
-    <a href="#signal" data-section="signal">SIGNAL</a>
-    <a href="#archive" data-section="archive">ARCHIVE</a>
-    <a href="#access" data-section="access">ACCESS</a>
+    <a href="#signal" data-section="signal"><span class="channel-meta">01 / TRANSMISSION</span><span class="channel-name">SIGNAL</span><span class="channel-arrow" aria-hidden="true"><svg class="exit-arrow" aria-hidden="true" viewBox="0 0 24 24" fill="none"><path d="M5 19 19 5M5 5h14v14" stroke="currentColor" stroke-width="1.5"/></svg></span></a>
+    <a href="#archive" data-section="archive"><span class="channel-meta">02 / PRESERVED SIGNALS</span><span class="channel-name">ARCHIVE</span><span class="channel-arrow" aria-hidden="true"><svg class="exit-arrow" aria-hidden="true" viewBox="0 0 24 24" fill="none"><path d="M5 19 19 5M5 5h14v14" stroke="currentColor" stroke-width="1.5"/></svg></span></a>
+    <a href="#access" data-section="access"><span class="channel-meta">03 / CONTACT & MEDIA</span><span class="channel-name">ACCESS</span><span class="channel-arrow" aria-hidden="true"><svg class="exit-arrow" aria-hidden="true" viewBox="0 0 24 24" fill="none"><path d="M5 19 19 5M5 5h14v14" stroke="currentColor" stroke-width="1.5"/></svg></span></a>
   </nav>
 
-  <div class="transmission-strip" aria-label="KingVision broadcast identification">
-    <div class="transmission-strip__track" aria-hidden="true">
-      <img src="https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Static_Banner_kmcxk4.png" alt="" />
-      <img src="https://res.cloudinary.com/dq6ylkimk/image/upload/KV_Static_Banner_kmcxk4.png" alt="" />
-    </div>
-    <span>KINGVISION / CONTINUOUS CARRIER</span>
-  </div>
-
   <main id="main">
+    <div class="brand-band"><img src="/assets/kingvision-banner.webp" alt="KingVision — Stories, Worlds, Signals" width="1920" height="384" fetchpriority="high" /></div>
     <section id="signal" class="panel" aria-labelledby="signal-title">
-      <div class="section-code"><span>SIGNAL / 001</span><span>AVAILABLE NOW</span></div>
+      <div class="section-code"><span>SIGNAL / KINGVISION</span><span>STORIES / WORLDS / SIGNALS</span></div>
       <div class="signal-grid">
         <div class="signal-copy">
-          <p class="eyebrow">CURRENTLY FEATURED</p>
-          <h1 id="signal-title">KVTV<br />STATION ID</h1>
-          <p class="lede">The identification remains in circulation. The broadcast continues without introduction.</p>
+          <p class="eyebrow">AN ONGOING CULTURAL BROADCAST</p>
+          <h1 id="signal-title">KINGVISION</h1>
+          <p class="lede">Stories, worlds, and signals. A creative studio for visual storytelling, worldbuilding, and experimental media.</p>
           <div class="actions">
-            <a class="button button-primary" href="https://res.cloudinary.com/dq6ylkimk/video/upload/KVTV_station_ID_animation_design_202608082219_ll7akz.mp4" target="_blank" rel="noopener noreferrer">WATCH SIGNAL <span aria-hidden="true">↗</span></a>
+            <a class="button button-primary" href="https://res.cloudinary.com/dq6ylkimk/video/upload/KVTV_station_ID_animation_design_202608082219_ll7akz.mp4" target="_blank" rel="noopener noreferrer">WATCH STATION ID <span aria-hidden="true"><svg class="exit-arrow" aria-hidden="true" viewBox="0 0 24 24" fill="none"><path d="M5 19 19 5M5 5h14v14" stroke="currentColor" stroke-width="1.5"/></svg></span></a>
             <a class="button" href="#archive">ENTER ARCHIVE</a>
           </div>
         </div>
         <button class="feature-frame" id="playStationId" type="button" aria-label="Play the optional KVTV station ID">
           <img src="https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/KVTV_station_ID_animation_design_202608082219_ll7akz.jpg" alt="Still frame from the KVTV station ID" />
           <span class="play-mark" aria-hidden="true">PLAY</span>
-          <span class="frame-label">OPTIONAL IDENT / 00:04</span>
+          <span class="frame-label">KVTV STATION ID / 00:04</span>
         </button>
       </div>
+      <div class="transmission-heading"><div><p class="eyebrow">STATION TRANSMISSIONS</p><h2>THE SIGNAL, IN TWO FORMS.</h2></div><p>Two public station clips. Original media, available on demand.</p></div>
+      <div id="signalMedia" class="signal-media"></div>
       <div class="institution-note">
         <span>OPERATIONAL NOTE</span>
         <p>KingVision does not begin when you arrive. Access is simply granted.</p>
@@ -83,33 +78,49 @@
     <section id="archive" class="panel" aria-labelledby="archive-title" hidden>
       <div class="section-code"><span>ARCHIVE / INDEX</span><span>2 RECORDS</span></div>
       <div class="heading-row">
-        <div><p class="eyebrow">PRESERVED SIGNALS</p><h1 id="archive-title">THE RECORD<br />REMAINS OPEN.</h1></div>
-        <p>No chronology has been inferred. These are the records presently available.</p>
+        <div><p class="eyebrow">PRESERVED SIGNALS</p><h1 id="archive-title">STATION<br />RECORDS.</h1></div>
+        <p>The station’s public visual records. Two identification films, preserved in their original form.</p>
       </div>
       <div id="media" class="archive-grid"></div>
+      <aside class="archive-desk" aria-label="Archive desk">
+        <div class="desk-art"><img src="/assets/drift-archive.webp" alt="Drift seated quietly beside the archive CRT" width="1234" height="1274" loading="lazy" /></div>
+        <div class="desk-control">
+          <span class="eyebrow">ARCHIVE DESK</span>
+          <button class="terminal-control" id="openArchiveTerminal" type="button" aria-haspopup="dialog" aria-controls="archiveTerminal">
+            <span class="crt-screen" aria-hidden="true">&gt;_</span>
+            <span>OPEN TERMINAL <span aria-hidden="true"><svg class="exit-arrow" aria-hidden="true" viewBox="0 0 24 24" fill="none"><path d="M5 19 19 5M5 5h14v14" stroke="currentColor" stroke-width="1.5"/></svg></span></span>
+          </button>
+        </div>
+      </aside>
     </section>
 
     <section id="access" class="panel" aria-labelledby="access-title" hidden>
       <div class="section-code"><span>ACCESS / EXTERNAL</span><span>PUBLIC CHANNEL</span></div>
       <div class="access-layout">
-        <div><p class="eyebrow">OUTSIDE THE BROADCAST</p><h1 id="access-title">AUTHORIZED<br />POINTS OF EXIT.</h1></div>
+        <div><p class="eyebrow">OUTSIDE THE BROADCAST</p><h1 id="access-title">KEEP THE<br />CHANNEL OPEN.</h1></div>
         <div class="access-list">
-          <a href="mailto:hello@kingvision.tv"><span>INQUIRIES</span><strong>hello@kingvision.tv</strong><b aria-hidden="true">↗</b></a>
-          <a href="https://res.cloudinary.com/dq6ylkimk/video/upload/KVTV_station_ID_animation_design_202608082219_ll7akz.mp4" target="_blank" rel="noopener noreferrer"><span>MEDIA / 001</span><strong>KVTV Station ID</strong><b aria-hidden="true">↗</b></a>
-          <a href="https://res.cloudinary.com/dq6ylkimk/video/upload/CRT_monitor_displaying_logo_202608082219_mwdbgk.mp4" target="_blank" rel="noopener noreferrer"><span>MEDIA / 002</span><strong>CRT Monitor Display</strong><b aria-hidden="true">↗</b></a>
+          <a href="https://kingvision.vercel.app/" target="_blank" rel="noopener noreferrer"><span>PUBLIC WEBSITE</span><strong>KingVision</strong><b aria-hidden="true"><svg class="exit-arrow" aria-hidden="true" viewBox="0 0 24 24" fill="none"><path d="M5 19 19 5M5 5h14v14" stroke="currentColor" stroke-width="1.5"/></svg></b></a>
+          <a href="mailto:KingVisionHq@gmail.com"><span>INQUIRIES</span><strong>KingVisionHq@gmail.com</strong><b aria-hidden="true"><svg class="exit-arrow" aria-hidden="true" viewBox="0 0 24 24" fill="none"><path d="M5 19 19 5M5 5h14v14" stroke="currentColor" stroke-width="1.5"/></svg></b></a>
+          <a href="https://res.cloudinary.com/dq6ylkimk/video/upload/KVTV_station_ID_animation_design_202608082219_ll7akz.mp4" target="_blank" rel="noopener noreferrer"><span>MEDIA / 001</span><strong>KVTV Station ID</strong><b aria-hidden="true"><svg class="exit-arrow" aria-hidden="true" viewBox="0 0 24 24" fill="none"><path d="M5 19 19 5M5 5h14v14" stroke="currentColor" stroke-width="1.5"/></svg></b></a>
+          <a href="https://res.cloudinary.com/dq6ylkimk/video/upload/CRT_monitor_displaying_logo_202608082219_mwdbgk.mp4" target="_blank" rel="noopener noreferrer"><span>MEDIA / 002</span><strong>CRT Monitor Display</strong><b aria-hidden="true"><svg class="exit-arrow" aria-hidden="true" viewBox="0 0 24 24" fill="none"><path d="M5 19 19 5M5 5h14v14" stroke="currentColor" stroke-width="1.5"/></svg></b></a>
         </div>
       </div>
-      <p class="fine-print">Only verified access points are listed. Additional channels have not been presumed.</p>
+      <p class="fine-print">Public website, station media, and the existing inquiry address.</p>
     </section>
   </main>
 
   <footer><span>KINGVISION / SIGNAL ARCHIVE</span><span>THE CHANNEL REMAINS OPEN</span></footer>
 
+  <dialog id="archiveTerminal" class="archive-terminal" aria-labelledby="terminalTitle">
+    <div class="dialog-bar"><span id="terminalTitle">ARCHIVE / TERMINAL</span><button id="closeArchiveTerminal" type="button" autofocus aria-label="Close archive terminal">CLOSE ×</button></div>
+    <div class="terminal-body"><p class="terminal-prompt">&gt; AVAILABLE RECORDS</p><div id="terminalLinks"><p>Loading archive index…</p></div></div>
+  </dialog>
+
   <dialog id="stationDialog" aria-labelledby="stationTitle">
     <div class="dialog-bar"><span id="stationTitle">KVTV / STATION IDENTIFICATION</span><button id="closeStationId" type="button">CLOSE <span aria-hidden="true">×</span></button></div>
     <video controls playsinline preload="metadata" src="https://res.cloudinary.com/dq6ylkimk/video/upload/KVTV_station_ID_animation_design_202608082219_ll7akz.mp4"></video>
   </dialog>
-  <noscript><p class="noscript">JavaScript is unavailable. Direct media links remain accessible through ACCESS.</p></noscript>
-  <script src="/main.js"></script>
+  <noscript><style>.panel[hidden]{display:block!important}</style><p class="noscript">Direct media links are available in ACCESS. Enable JavaScript to use the archive terminal and video player.</p></noscript>
+  <script src="/assets/kingvision-content-1.js"></script>
 </body>
 </html>
