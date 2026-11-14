@@ -635,6 +635,9 @@ function setupAccessForm() {
   const form = document.getElementById('accessInquiryForm');
   const statusEl = document.getElementById('accessFormStatus');
   if (!form) return;
+  const inquirySfx = new Audio('/assets/access/access-inquiry-sfx.mp3');
+  inquirySfx.preload = 'auto';
+
   form.addEventListener('submit', (event) => {
     event.preventDefault();
     const name = document.getElementById('inquiryName')?.value.trim() || '';
@@ -644,9 +647,13 @@ function setupAccessForm() {
     const subject = encodeURIComponent(`[KINGVISION // ${type}] ${name}`);
     const body = encodeURIComponent(`Name / Alias: ${name}\nEmail: ${email}\nInquiry Type: ${type}\n\n${message}`);
     if (statusEl) {
-      statusEl.textContent = 'PREPARING MAIL TRANSMISSION...';
+      statusEl.textContent = 'TRANSMITTING SIGNAL...';
     }
-    window.location.href = `mailto:KingVisionHq@gmail.com?subject=${subject}&body=${body}`;
+    inquirySfx.currentTime = 0;
+    inquirySfx.play().catch(() => {});
+    setTimeout(() => {
+      window.location.href = `mailto:KingVisionHq@gmail.com?subject=${subject}&body=${body}`;
+    }, 350);
   });
 }
 
