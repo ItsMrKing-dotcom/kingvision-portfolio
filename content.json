@@ -3901,6 +3901,15 @@
         "type": "video"
       },
       {
+        "id": "REC-0202",
+        "category": "records",
+        "group": "CITY WATCH S2",
+        "title": "City Watch S2E02 — Cat Boss",
+        "description": "Season 2, Episode 2 — Big Lil stops by the convenience store for a can of JUNK while the clerk and manager argue over the tabby cat running management outside.",
+        "video": "https://res.cloudinary.com/dq6ylkimk/video/upload/v1795133287/kingvision/videos/City_Watch/S2/02_KingVision_City_Watch_Cat_Boss.mp4",
+        "type": "video"
+      },
+      {
         "id": "COM-0014",
         "category": "station-logs",
         "group": "COMMERCIALS",

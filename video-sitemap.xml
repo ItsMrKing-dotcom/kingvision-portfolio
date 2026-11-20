@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://kingvision.vercel.app/archive/kvtv-station-id/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/KVTV_station_ID_animation_design_202608082219_ll7akz.jpg</video:thumbnail_loc>
+      <video:title>KVTV Station ID</video:title>
+      <video:description>KVTV Station ID (REC-1847, STATION IDENT) — Original station identification (Broadcast, c. 2002).</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/KVTV_station_ID_animation_design_202608082219_ll7akz.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/city-watch-s1e01-mister-captain/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794670036/kingvision/videos/City_Watch/S1/01_KingVision_Found_Footage_City_Watch_1_Rental.jpg</video:thumbnail_loc>
+      <video:title>City Watch S1E01 — Mister Captain</video:title>
+      <video:description>City Watch S1E01 — Mister Captain (REC-0101, CITY WATCH S1) — Season 1, Episode 1.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794670036/kingvision/videos/City_Watch/S1/01_KingVision_Found_Footage_City_Watch_1_Rental.mp4</video:content_loc>
+      <video:duration>60</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/city-watch-s1e02-grandson-tattoo/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669846/kingvision/videos/City_Watch/S1/02_KingVision_Found_Footage_City_Watch_2_Sic1.jpg</video:thumbnail_loc>
+      <video:title>City Watch S1E02 — Grandson Tattoo</video:title>
+      <video:description>City Watch S1E02 — Grandson Tattoo (REC-0102, CITY WATCH S1) — Season 1, Episode 2.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669846/kingvision/videos/City_Watch/S1/02_KingVision_Found_Footage_City_Watch_2_Sic1.mp4</video:content_loc>
+      <video:duration>60</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/city-watch-s1e03-goldfish-funeral/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794670210/kingvision/videos/City_Watch/S1/03_KingVision_Found_Footage_City_Watch_3.jpg</video:thumbnail_loc>
+      <video:title>City Watch S1E03 — Goldfish Funeral</video:title>
+      <video:description>City Watch S1E03 — Goldfish Funeral (REC-0103, CITY WATCH S1) — Season 1, Episode 3.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794670210/kingvision/videos/City_Watch/S1/03_KingVision_Found_Footage_City_Watch_3.mp4</video:content_loc>
+      <video:duration>42</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/city-watch-s1e04-cheffy-d-chef/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669961/kingvision/videos/City_Watch/S1/04_KingVision_Found_Footage_City_Watch_4.jpg</video:thumbnail_loc>
+      <video:title>City Watch S1E04 — Cheffy D Chef</video:title>
+      <video:description>City Watch S1E04 — Cheffy D Chef (REC-0104, CITY WATCH S1) — Season 1, Episode 4.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669961/kingvision/videos/City_Watch/S1/04_KingVision_Found_Footage_City_Watch_4.mp4</video:content_loc>
+      <video:duration>68</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/city-watch-s1e05-safe-zone/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794670006/kingvision/videos/City_Watch/S1/05_KingVision_Found_Footage_City_Watch_5_Theft_B.jpg</video:thumbnail_loc>
+      <video:title>City Watch S1E05 — Safe Zone</video:title>
+      <video:description>City Watch S1E05 — Safe Zone (REC-0105, CITY WATCH S1) — Season 1, Episode 5.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794670006/kingvision/videos/City_Watch/S1/05_KingVision_Found_Footage_City_Watch_5_Theft_B.mp4</video:content_loc>
+      <video:duration>93</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/city-watch-s1e06-fruit-lady/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669776/kingvision/videos/City_Watch/S1/06_kingvision_city_watch_ep6_the_fence_fruit_lady.jpg</video:thumbnail_loc>
+      <video:title>City Watch S1E06 — Fruit Lady</video:title>
+      <video:description>City Watch S1E06 — Fruit Lady (REC-0106, CITY WATCH S1) — Season 1, Episode 6.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669776/kingvision/videos/City_Watch/S1/06_kingvision_city_watch_ep6_the_fence_fruit_lady.mp4</video:content_loc>
+      <video:duration>175</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/city-watch-s1e07-cake/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794670171/kingvision/videos/City_Watch/S1/07_KingVision_Found_Footage_Cake_City_Watch_Bop.jpg</video:thumbnail_loc>
+      <video:title>City Watch S1E07 — Cake</video:title>
+      <video:description>City Watch S1E07 — Cake (REC-0107, CITY WATCH S1) — Season 1, Episode 7.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794670171/kingvision/videos/City_Watch/S1/07_KingVision_Found_Footage_Cake_City_Watch_Bop.mp4</video:content_loc>
+      <video:duration>169</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/city-watch-s1e08-lewis-the-looter/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794670029/kingvision/videos/City_Watch/S1/08_KingVision_Found_Footage_City_Watch_Lewis_The_Looter_Bop.jpg</video:thumbnail_loc>
+      <video:title>City Watch S1E08 — Lewis the Looter</video:title>
+      <video:description>City Watch S1E08 — Lewis the Looter (REC-0108, CITY WATCH S1) — Season 1, Episode 8.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794670029/kingvision/videos/City_Watch/S1/08_KingVision_Found_Footage_City_Watch_Lewis_The_Looter_Bop.mp4</video:content_loc>
+      <video:duration>99</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/city-watch-s1e09-watching-the-watcher/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794670182/kingvision/videos/City_Watch/S1/09_kingvision_city_watch_ep9_watching_the_watcher_bop.jpg</video:thumbnail_loc>
+      <video:title>City Watch S1E09 — Watching the Watcher</video:title>
+      <video:description>City Watch S1E09 — Watching the Watcher (REC-0109, CITY WATCH S1) — Season 1, Episode 9.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794670182/kingvision/videos/City_Watch/S1/09_kingvision_city_watch_ep9_watching_the_watcher_bop.mp4</video:content_loc>
+      <video:duration>55</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/city-watch-halloween/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794670082/kingvision/videos/City_Watch/Holiday_Ep/Halloween_KingVision_Found_Footage_City_Watch_6_Bop.jpg</video:thumbnail_loc>
+      <video:title>City Watch — Halloween</video:title>
+      <video:description>City Watch — Halloween (REC-0110, CITY WATCH HOLIDAY) — Holiday Episode.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794670082/kingvision/videos/City_Watch/Holiday_Ep/Halloween_KingVision_Found_Footage_City_Watch_6_Bop.mp4</video:content_loc>
+      <video:duration>36</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/city-watch-s2e01-city-chefs/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794670066/kingvision/videos/City_Watch/S2/01_Kingvision_City_Watch_City_Chefs_Season_Opener.jpg</video:thumbnail_loc>
+      <video:title>City Watch S2E01 — City Chefs</video:title>
+      <video:description>City Watch S2E01 — City Chefs (REC-0201, CITY WATCH S2) — Season 2 Opener.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794670066/kingvision/videos/City_Watch/S2/01_Kingvision_City_Watch_City_Chefs_Season_Opener.mp4</video:content_loc>
+      <video:duration>80</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/city-watch-s2e02-cat-boss/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1795133287/kingvision/videos/City_Watch/S2/02_KingVision_City_Watch_Cat_Boss.jpg</video:thumbnail_loc>
+      <video:title>City Watch S2E02 — Cat Boss</video:title>
+      <video:description>City Watch S2E02 — Cat Boss (REC-0202, CITY WATCH S2) — Season 2, Episode 2 — Big Lil stops by the convenience store for a can of JUNK while the clerk and manager argue over the tabby cat running management outside..</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1795133287/kingvision/videos/City_Watch/S2/02_KingVision_City_Watch_Cat_Boss.mp4</video:content_loc>
+      <video:duration>21</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/gigas-knows/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669633/kingvision/videos/Commercials/kingvision_gigas_tech_xray_doorbell_corporate_surrealism.jpg</video:thumbnail_loc>
+      <video:title>GIGAS KNOWS</video:title>
+      <video:description>GIGAS KNOWS (COM-0014, COMMERCIALS) — Smart-home surveillance notice (Sponsored broadcast).</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669633/kingvision/videos/Commercials/kingvision_gigas_tech_xray_doorbell_corporate_surrealism.mp4</video:content_loc>
+      <video:duration>29</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/a-eyes-infomercial/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669921/kingvision/videos/Commercials/KingVision_KVTV_Found_VHS_AEyes_Infomercial.jpg</video:thumbnail_loc>
+      <video:title>A-Eyes Infomercial</video:title>
+      <video:description>A-Eyes Infomercial (COM-0015, COMMERCIALS) — KVTV Found VHS Infomercial.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669921/kingvision/videos/Commercials/KingVision_KVTV_Found_VHS_AEyes_Infomercial.mp4</video:content_loc>
+      <video:duration>177</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/depress-os-commercial/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669576/kingvision/videos/Commercials/Depress_Os_Commercial.jpg</video:thumbnail_loc>
+      <video:title>Depress O&apos;s Commercial</video:title>
+      <video:description>Depress O&apos;s Commercial (COM-0016, COMMERCIALS) — Sponsored broadcast commercial.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669576/kingvision/videos/Commercials/Depress_Os_Commercial.mp4</video:content_loc>
+      <video:duration>20</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/dollar4u-commercial/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669560/kingvision/videos/Commercials/Dollar4U_1080p_No_Lipsync.jpg</video:thumbnail_loc>
+      <video:title>Dollar4U Commercial</video:title>
+      <video:description>Dollar4U Commercial (COM-0017, COMMERCIALS) — Sponsored broadcast commercial.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669560/kingvision/videos/Commercials/Dollar4U_1080p_No_Lipsync.mp4</video:content_loc>
+      <video:duration>27</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/junk-drink-commercial/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794670306/kingvision/videos/Commercials/Junk_Commercial_Found_footage_Bop_Drink.jpg</video:thumbnail_loc>
+      <video:title>Junk Drink Commercial</video:title>
+      <video:description>Junk Drink Commercial (COM-0018, COMMERCIALS) — Found-footage beverage commercial.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794670306/kingvision/videos/Commercials/Junk_Commercial_Found_footage_Bop_Drink.mp4</video:content_loc>
+      <video:duration>27</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/schmittys-city-rentals/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669868/kingvision/videos/Commercials/kingvision_schmittys_city_rentals_commercial.jpg</video:thumbnail_loc>
+      <video:title>Schmitty&apos;s City Rentals</video:title>
+      <video:description>Schmitty&apos;s City Rentals (COM-0019, COMMERCIALS) — Sponsored broadcast commercial.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669868/kingvision/videos/Commercials/kingvision_schmittys_city_rentals_commercial.mp4</video:content_loc>
+      <video:duration>100</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/meatburger-commercial/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669566/kingvision/videos/Commercials/MeatBurger_Commercial_1080p.jpg</video:thumbnail_loc>
+      <video:title>MeatBurger Commercial</video:title>
+      <video:description>MeatBurger Commercial (COM-0020, COMMERCIALS) — Sponsored broadcast commercial.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669566/kingvision/videos/Commercials/MeatBurger_Commercial_1080p.mp4</video:content_loc>
+      <video:duration>67</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/ps-pizza-commercial/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794670282/kingvision/videos/Commercials/Ps_Pizza_Commercial.jpg</video:thumbnail_loc>
+      <video:title>P&apos;s Pizza Commercial</video:title>
+      <video:description>P&apos;s Pizza Commercial (COM-0021, COMMERCIALS) — Sponsored broadcast commercial.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794670282/kingvision/videos/Commercials/Ps_Pizza_Commercial.mp4</video:content_loc>
+      <video:duration>26</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/sic1-commercial/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794670298/kingvision/videos/Commercials/Sic1_Commercial_1080p.jpg</video:thumbnail_loc>
+      <video:title>Sic1 Commercial</video:title>
+      <video:description>Sic1 Commercial (COM-0022, COMMERCIALS) — Sponsored broadcast commercial.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794670298/kingvision/videos/Commercials/Sic1_Commercial_1080p.mp4</video:content_loc>
+      <video:duration>50</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/2-02-radio-face-h2o-the-city-show/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669569/kingvision/videos/2O2_Radio/202_radio_face_h2o_the_city_show.jpg</video:thumbnail_loc>
+      <video:title>2.02 Radio — Face / H2O The City Show</video:title>
+      <video:description>2.02 Radio — Face / H2O The City Show (LOG-0201, 2O2 RADIO) — 2.02 Radio video broadcast.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669569/kingvision/videos/2O2_Radio/202_radio_face_h2o_the_city_show.mp4</video:content_loc>
+      <video:duration>14</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/2-02-radio-man-on-the-street/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669699/kingvision/videos/2O2_Radio/2O2_Man_on_the_street.jpg</video:thumbnail_loc>
+      <video:title>2.02 Radio — Man on the Street</video:title>
+      <video:description>2.02 Radio — Man on the Street (LOG-0202, 2O2 RADIO) — 2.02 Radio street segment.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669699/kingvision/videos/2O2_Radio/2O2_Man_on_the_street.mp4</video:content_loc>
+      <video:duration>35</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/2-02-radio-4k-intro/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669560/kingvision/videos/2O2_Radio/2O2Radio_4K_Intro.jpg</video:thumbnail_loc>
+      <video:title>2.02 Radio — 4K Intro</video:title>
+      <video:description>2.02 Radio — 4K Intro (LOG-0203, 2O2 RADIO) — 2.02 Radio broadcast intro (4K).</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669560/kingvision/videos/2O2_Radio/2O2Radio_4K_Intro.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/2-02-radio-intro/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669523/kingvision/videos/2O2_Radio/2O2Radio_Intro.jpg</video:thumbnail_loc>
+      <video:title>2.02 Radio — Intro</video:title>
+      <video:description>2.02 Radio — Intro (LOG-0204, 2O2 RADIO) — 2.02 Radio broadcast intro.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669523/kingvision/videos/2O2_Radio/2O2Radio_Intro.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/year-you-episode-01/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669890/kingvision/videos/YEAR_YOU/KingVision_YEAR-YOU_E01_Master_TAGGED.jpg</video:thumbnail_loc>
+      <video:title>YEAR_YOU — Episode 01</video:title>
+      <video:description>YEAR_YOU — Episode 01 (PRJ-0101, YEAR_YOU) — YEAR_YOU Series, Episode 1.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669890/kingvision/videos/YEAR_YOU/KingVision_YEAR-YOU_E01_Master_TAGGED.mp4</video:content_loc>
+      <video:duration>79</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/year-you-episode-02/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794670021/kingvision/videos/YEAR_YOU/KingVision_YEAR-YOU_E021.jpg</video:thumbnail_loc>
+      <video:title>YEAR_YOU — Episode 02</video:title>
+      <video:description>YEAR_YOU — Episode 02 (PRJ-0102, YEAR_YOU) — YEAR_YOU Series, Episode 2.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794670021/kingvision/videos/YEAR_YOU/KingVision_YEAR-YOU_E021.mp4</video:content_loc>
+      <video:duration>92</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/year-you-episode-03/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669722/kingvision/videos/YEAR_YOU/kingvision_year_you_three_found_footage_kv.jpg</video:thumbnail_loc>
+      <video:title>YEAR_YOU — Episode 03</video:title>
+      <video:description>YEAR_YOU — Episode 03 (PRJ-0103, YEAR_YOU) — YEAR_YOU Series, Episode 3.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669722/kingvision/videos/YEAR_YOU/kingvision_year_you_three_found_footage_kv.mp4</video:content_loc>
+      <video:duration>89</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/bopcorn-a-great-day-trailer/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794670263/kingvision/videos/BopCorn/Bop_Corn_A_Great_Day_Trailer_Kingvision.jpg</video:thumbnail_loc>
+      <video:title>BopCorn — A Great Day Trailer</video:title>
+      <video:description>BopCorn — A Great Day Trailer (PRJ-0201, BOPCORN) — BopCorn Series.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794670263/kingvision/videos/BopCorn/Bop_Corn_A_Great_Day_Trailer_Kingvision.mp4</video:content_loc>
+      <video:duration>61</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/bopcorn-wrong-nut/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669861/kingvision/videos/BopCorn/Bop_Corn_Wrong_Nut_Surreal_Founf_Footage_Animals.jpg</video:thumbnail_loc>
+      <video:title>BopCorn — Wrong Nut</video:title>
+      <video:description>BopCorn — Wrong Nut (PRJ-0202, BOPCORN) — BopCorn Series.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669861/kingvision/videos/BopCorn/Bop_Corn_Wrong_Nut_Surreal_Founf_Footage_Animals.mp4</video:content_loc>
+      <video:duration>97</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/detention-high-teaser/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669576/kingvision/videos/Detention_High/kingvision_detention_high_teaser_animated.jpg</video:thumbnail_loc>
+      <video:title>Detention High — Teaser</video:title>
+      <video:description>Detention High — Teaser (PRJ-0301, DETENTION HIGH) — Animated series teaser.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669576/kingvision/videos/Detention_High/kingvision_detention_high_teaser_animated.mp4</video:content_loc>
+      <video:duration>20</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/neverending-neon-teaser/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669700/kingvision/videos/Neverending_Neon/Neverending_Neon_Teaser.jpg</video:thumbnail_loc>
+      <video:title>Neverending Neon — Teaser</video:title>
+      <video:description>Neverending Neon — Teaser (PRJ-0401, NEVERENDING NEON) — Series teaser.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669700/kingvision/videos/Neverending_Neon/Neverending_Neon_Teaser.mp4</video:content_loc>
+      <video:duration>39</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/meatburger-100-meat-music-video/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794670129/kingvision/videos/Music_Videos/Found_Footage_MeatBurger_Music_Video_100_Meat.jpg</video:thumbnail_loc>
+      <video:title>MeatBurger — 100% Meat (Music Video)</video:title>
+      <video:description>MeatBurger — 100% Meat (Music Video) (MED-0101, MUSIC VIDEOS) — Found-footage music video.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794670129/kingvision/videos/Music_Videos/Found_Footage_MeatBurger_Music_Video_100_Meat.mp4</video:content_loc>
+      <video:duration>108</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/green-in-the-dark-music-video/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669847/kingvision/videos/Music_Videos/Green_In_The_Dark_Music_Video.jpg</video:thumbnail_loc>
+      <video:title>Green In The Dark (Music Video)</video:title>
+      <video:description>Green In The Dark (Music Video) (MED-0102, MUSIC VIDEOS) — Music video.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669847/kingvision/videos/Music_Videos/Green_In_The_Dark_Music_Video.mp4</video:content_loc>
+      <video:duration>152</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/crt-monitor-display/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/CRT_monitor_displaying_logo_202608082219_mwdbgk.jpg</video:thumbnail_loc>
+      <video:title>CRT Monitor Display</video:title>
+      <video:description>CRT Monitor Display (MED-0201, CRT DISPLAY) — CRT display animation.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/CRT_monitor_displaying_logo_202608082219_mwdbgk.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/puppets-people-puzzles/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669779/kingvision/videos/Experiments/Analog_Horror_Puppets_People_And_Puzzles.jpg</video:thumbnail_loc>
+      <video:title>Puppets, People &amp; Puzzles</video:title>
+      <video:description>Puppets, People &amp; Puzzles (EXP-0101, EXPERIMENTS) — Analog horror experiment.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669779/kingvision/videos/Experiments/Analog_Horror_Puppets_People_And_Puzzles.mp4</video:content_loc>
+      <video:duration>157</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/buddy-the-cat/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669613/kingvision/videos/Experiments/Buddy_The_Cat_4K_Final.jpg</video:thumbnail_loc>
+      <video:title>Buddy The Cat</video:title>
+      <video:description>Buddy The Cat (EXP-0102, EXPERIMENTS) — 4K Final experiment.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669613/kingvision/videos/Experiments/Buddy_The_Cat_4K_Final.mp4</video:content_loc>
+      <video:duration>82</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/junk-ugc/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669533/kingvision/videos/Experiments/JUNK_UGC.jpg</video:thumbnail_loc>
+      <video:title>JUNK UGC</video:title>
+      <video:description>JUNK UGC (EXP-0103, EXPERIMENTS) — Experimental short.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669533/kingvision/videos/Experiments/JUNK_UGC.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/officer-o/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669582/kingvision/videos/Experiments/Officer_O.jpg</video:thumbnail_loc>
+      <video:title>Officer O</video:title>
+      <video:description>Officer O (EXP-0104, EXPERIMENTS) — Experimental short.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669582/kingvision/videos/Experiments/Officer_O.mp4</video:content_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://kingvision.vercel.app/archive/the-happiness-tree-draft-3/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/so_0/v1794669582/kingvision/videos/Experiments/The_Happiness_Tree_Draft_3.jpg</video:thumbnail_loc>
+      <video:title>The Happiness Tree (Draft 3)</video:title>
+      <video:description>The Happiness Tree (Draft 3) (EXP-0105, EXPERIMENTS) — Experimental short.</video:description>
+      <video:content_loc>https://res.cloudinary.com/dq6ylkimk/video/upload/v1794669582/kingvision/videos/Experiments/The_Happiness_Tree_Draft_3.mp4</video:content_loc>
+      <video:duration>373</video:duration>
+    </video:video>
+  </url>
+</urlset>
